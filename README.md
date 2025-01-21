@@ -9,7 +9,7 @@ API para gerenciar tarefas (CRUD) que faz parte desse desafio para pessoas desen
 - Spring Boot ✔️
 - Spring MVC ✔️
 - Spring Data JPA ✔️
-- SpringDoc OpenAPI 3(Swagger) ✔️
+- SpringDoc OpenAPI 3 ✔️
 - Mysql ✔️
 
 ## Práticas adotadas
