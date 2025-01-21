@@ -44,7 +44,7 @@ Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta httpie:
 
 Criar Tarefa
 ```sh
-$ http POST :8080/todos nome="Todo 1" descricao="Desc Todo 1" prioridade=1
+http POST :8080/todos nome="Todo 1" descricao="Desc Todo 1" prioridade=1
 ```
 
 [
@@ -58,7 +58,7 @@ $ http POST :8080/todos nome="Todo 1" descricao="Desc Todo 1" prioridade=1
 ]
 Listar Tarefas
 ```sh
-$ http GET :8080/todos
+http GET :8080/todos
 ```
 
 [
@@ -72,7 +72,7 @@ $ http GET :8080/todos
 ]
 Atualizar Tarefa
 ```sh
-$ http PUT :8080/todos/1 nome="Todo 1 Up" descricao="Desc Todo 1 Up" prioridade=2
+http PUT :8080/todos/1 nome="Todo 1 Up" descricao="Desc Todo 1 Up" prioridade=2
 ```
 
 [
