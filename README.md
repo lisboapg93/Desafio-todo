@@ -10,7 +10,8 @@ API para gerenciar tarefas (CRUD) que faz parte desse desafio para pessoas desen
 - Spring MVC ✔️
 - Spring Data JPA ✔️
 - SpringDoc OpenAPI 3 ✔️
-- Mysql ✔️
+- Docker ✔️
+- Mysql via Docker✔️
 
 ## Práticas adotadas
 
