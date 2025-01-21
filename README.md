@@ -28,7 +28,7 @@ API para gerenciar tarefas (CRUD) que faz parte desse desafio para pessoas desen
 
 1. Clonar o repositório git:
     ```sh
-    $ git clone <URL_DO_REPOSITORIO>
+    $ git clone https://github.com/lisboapg93/Desafio-todo.git
     ```
 
 2. Construir o projeto:
