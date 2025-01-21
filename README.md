@@ -6,28 +6,28 @@ API para gerenciar tarefas (CRUD) que faz parte desse desafio para pessoas desen
 
 ## Tecnologias
 
-Spring Boot
-Spring MVC
-Spring Data JPA
-SpringDoc OpenAPI 3
-Mysql
+- Spring Boot ✔️
+- Spring MVC ✔️
+- Spring Data JPA ✔️
+- SpringDoc OpenAPI 3(Swagger) ✔️
+- Mysql ✔️
 
 ## Práticas adotadas
 
-SOLID, DRY, YAGNI, KISS
-API REST
-Consultas com Spring Data JPA
-Injeção de Dependências
-Tratamento de respostas de erro
-Geração automática do Swagger com a OpenAPI 3
+- SOLID, DRY, YAGNI, KISS
+- API REST
+- Consultas com Spring Data JPA
+- Injeção de Dependências
+- Tratamento de respostas de erro
+- Geração automática do Swagger com a OpenAPI 3
 C
 
 ### Como Executar
 
 Clonar repositório git
 Construir o projeto:
-```sh
-./mvnw clean package
+```bash
+$ ./mvnw clean package
 ```
 Executar a aplicação:
 ```sh
